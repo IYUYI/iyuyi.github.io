@@ -18,3 +18,4 @@ git submodule add https://github.com/YunYouJun/hexo-theme-yun themes/yun
 https://github.com/YunYouJun/hexo-theme-yun
 喜欢云游君主题的小伙伴可以给他点个star！
 
+七、这个项目可能得搁置一段时间了，公司安排了一个大活。等我过了这一劫，我一定好好弄。
